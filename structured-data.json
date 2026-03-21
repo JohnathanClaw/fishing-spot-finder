@@ -1,0 +1,7 @@
+{
+  "type": "WebSite",
+  "name": "fishing-spot-finder",
+  "description": "fishing-spot-finder website",
+  "@context": "https://schema.org",
+  "@type": "WebSite"
+}

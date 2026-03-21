@@ -1,0 +1,42 @@
+{
+  "brandVoice": "casual",
+  "targetAudience": "Recreational anglers, fishing enthusiasts, and outdoor adventurers looking for new and reliable fishing spots.",
+  "contentPieces": [
+    {
+      "type": "landing-copy",
+      "outputFile": "marketing/landing-page.md",
+      "brief": "Highlight how fishing-spot-finder helps users discover the best fishing locations nearby, save favorite spots, and plan their next fishing adventure with ease."
+    },
+    {
+      "type": "social-twitter",
+      "outputFile": "marketing/social-twitter-launch.md",
+      "brief": "Announce the launch of fishing-spot-finder, emphasizing how it makes finding great fishing spots quick and easy for all anglers."
+    },
+    {
+      "type": "social-linkedin",
+      "outputFile": "marketing/social-linkedin-launch.md",
+      "brief": "Promote fishing-spot-finder to the professional and hobbyist fishing community, focusing on how it streamlines trip planning and helps users discover hidden gems."
+    },
+    {
+      "type": "email-welcome",
+      "outputFile": "marketing/email-welcome.md",
+      "brief": "Welcome new users to fishing-spot-finder, introduce key features, and encourage them to start exploring fishing spots right away."
+    },
+    {
+      "type": "email-launch",
+      "outputFile": "marketing/email-launch.md",
+      "brief": "Announce the official launch of fishing-spot-finder to subscribers, highlighting the benefits of using the app for planning fishing trips and discovering new locations."
+    },
+    {
+      "type": "blog-post",
+      "outputFile": "marketing/blog-top-5-benefits.md",
+      "brief": "Detail the top 5 benefits of using fishing-spot-finder, such as saving time, discovering new spots, and connecting with the fishing community."
+    },
+    {
+      "type": "press-release",
+      "outputFile": "marketing/press-release-launch.md",
+      "brief": "Announce the launch of fishing-spot-finder to media outlets, focusing on its value for anglers and its mission to make fishing adventures more accessible and enjoyable."
+    }
+  ],
+  "summary": "This marketing plan focuses on promoting fishing-spot-finder to recreational anglers and outdoor enthusiasts. The content highlights the app's ability to help users easily discover, save, and plan trips to the best fishing spots, making fishing adventures more accessible and enjoyable."
+}
